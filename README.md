@@ -15,9 +15,17 @@ paper1 : [Wavenet](https://arxiv.org/pdf/1609.03499.pdf)
 
 paper2 : [Generating Sequences With Recurrent Neural Networks](https://arxiv.org/pdf/1308.0850v5.pdf)
 
-Log 
+### Members
+- Yutaro Yamada
+- Kshitijh Meelu
+- Krishnan Srinivasan
 
-2016/09/25 | 
+### Log 
+Status: [ not started :black_medium_square: | completed :white_check_mark: | in progress :speech_balloon:]
+
+| Task | Status | Deadline |
+|------|--------|----------|
+|read paper1|:speech_balloon:|9.30.16|
 
 
 ## Generating Sequences With Recurrent Neural Network
