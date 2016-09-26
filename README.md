@@ -9,6 +9,7 @@ Impelementation of audio processing related models
 
 - Join our discussion [here]()!
 
+- For those who are new to RNN, here are some resources. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/), [How to implement a recurrent neural network Part 1](http://peterroelants.github.io/posts/rnn_implementation_part01/)
 
 paper1 : [Wavenet](https://arxiv.org/pdf/1609.03499.pdf)
 
@@ -22,6 +23,7 @@ Log
 ## Generating Sequences With Recurrent Neural Network
 
 We can probably use this model to generate raw audio, instead of handwriting sequences. 
+
 
 
 
