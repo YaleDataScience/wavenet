@@ -27,12 +27,3 @@ Status: [ not started :black_medium_square: | completed :white_check_mark: | in 
 |------|--------|----------|
 |read paper1|:speech_balloon:|9.30.16|
 
-
-## Generating Sequences With Recurrent Neural Network
-
-We can probably use this model to generate raw audio, instead of handwriting sequences. 
-
-
-
-
-
