@@ -13,7 +13,11 @@ Impelementation of audio processing related models
 
 paper1 : [Wavenet](https://arxiv.org/pdf/1609.03499.pdf)
 
+Deepmind Blogpost : [Wavenet blogpost](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
+
 paper2 : [Generating Sequences With Recurrent Neural Networks](https://arxiv.org/pdf/1308.0850v5.pdf)
+
+PixelRNN review : [Magenta Review](https://github.com/tensorflow/magenta/blob/master/magenta/reviews/pixelrnn.md)
 
 ### Members
 - Yutaro Yamada
@@ -25,5 +29,6 @@ Status: [ not started :black_medium_square: | completed :white_check_mark: | in 
 
 | Task | Status | Deadline |
 |------|--------|----------|
-|read paper1|:speech_balloon:|9.30.16|
+|read paper1 & Deepmind Blogpost|:speech_balloon:|9.30.16|
+|read PixelRNN review|:speech_balloon:|10.1.16|
 
