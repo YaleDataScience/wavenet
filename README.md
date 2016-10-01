@@ -23,6 +23,8 @@ PixelRNN review : [Magenta Review](https://github.com/tensorflow/magenta/blob/ma
 - Yutaro Yamada
 - Kshitijh Meelu
 - Krishnan Srinivasan
+- Sumedh Guha
+- Ethan Weinberger
 
 ### Log 
 Status: [ not started :black_medium_square: | completed :white_check_mark: | in progress :speech_balloon:]
