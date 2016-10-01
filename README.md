@@ -33,8 +33,8 @@ Status: [ not started :black_medium_square: | completed :white_check_mark: | in 
 |------|--------|----------|
 |read paper1 & Deepmind Blogpost|:white_check_mark:|9.30.16|
 |read PixelRNN review|:white_check_mark:|10.1.16|
-|preprocess audio data to wavenet data|:white_check_mark:|10.7.16|
-|setup an instance on AWS|:white_check_mark:|10.7.16|
-|buid network|:white_check_mark:|10.7.16|
-|postprocess wavenet data to audio data|:white_check_mark:|10.7.16|
+|preprocess audio data to wavenet data|:speech_balloon:|10.7.16|
+|setup an instance on AWS|:speech_balloon:|10.7.16|
+|buid network|:speech_balloon:|10.7.16|
+|postprocess wavenet data to audio data|:speech_balloon:|10.7.16|
 
