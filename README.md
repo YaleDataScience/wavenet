@@ -35,6 +35,6 @@ Status: [ not started :black_medium_square: | completed :white_check_mark: | in 
 |read PixelRNN review|:white_check_mark:|10.1.16|Everyone|
 |preprocess audio data to wavenet data|:speech_balloon:|10.7.16|Krishnan, Sumedh|
 |setup an instance on AWS|:speech_balloon:|10.7.16|Kshitijh|
-|buid network|:speech_balloon:|10.7.16|Yutaro|
+|build network|:speech_balloon:|10.7.16|Yutaro|
 |postprocess wavenet data to audio data|:speech_balloon:|10.7.16|Ethan|
 
