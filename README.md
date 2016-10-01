@@ -29,12 +29,12 @@ PixelRNN review : [Magenta Review](https://github.com/tensorflow/magenta/blob/ma
 ### Log 
 Status: [ not started :black_medium_square: | completed :white_check_mark: | in progress :speech_balloon:]
 
-| Task | Status | Deadline |
-|------|--------|----------|
-|read paper1 & Deepmind Blogpost|:white_check_mark:|9.30.16|
-|read PixelRNN review|:white_check_mark:|10.1.16|
-|preprocess audio data to wavenet data|:speech_balloon:|10.7.16|
-|setup an instance on AWS|:speech_balloon:|10.7.16|
-|buid network|:speech_balloon:|10.7.16|
-|postprocess wavenet data to audio data|:speech_balloon:|10.7.16|
+| Task | Status | Deadline | Assigned to |
+|------|--------|----------|-------------|
+|read paper1 & Deepmind Blogpost|:white_check_mark:|9.30.16|Everyone|
+|read PixelRNN review|:white_check_mark:|10.1.16|Everyone|
+|preprocess audio data to wavenet data|:speech_balloon:|10.7.16|Krishnan, Sumedh|
+|setup an instance on AWS|:speech_balloon:|10.7.16|Kshitijh|
+|buid network|:speech_balloon:|10.7.16|Yutaro|
+|postprocess wavenet data to audio data|:speech_balloon:|10.7.16|Ethan|
 
