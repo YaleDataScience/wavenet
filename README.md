@@ -7,7 +7,7 @@ Impelementation of audio processing related models
 
 - Then, read the following two papers. 
 
-- Join our discussion [here]()!
+- Join our discussion [here](https://github.com/yaledatascience/wavenet/wiki)!
 
 - For those who are new to RNN, here are some resources. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/), [How to implement a recurrent neural network Part 1](http://peterroelants.github.io/posts/rnn_implementation_part01/)
 
