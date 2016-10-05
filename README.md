@@ -3,7 +3,7 @@
 Impelementation of audio processing related models
 
 **Note**: 
-- For those who are interested in this project, please read [this post]() first. It describes basic stuff you need to know to do audio processing.
+- For those who are interested in this project, please read the Deepmind and PixelRNN posts below first. It describes basic stuff you need to know to do audio processing.
 
 - Then, read the following two papers. 
 
