@@ -7,7 +7,7 @@ Impelementation of audio processing related models
 
 - Then, read the following two papers. 
 
-- Join our discussion [here](https://github.com/yaledatascience/wavenet/wiki)!
+- Join our discussion [here](https://yds.slack.com/messages/wavenet/)!
 
 - For those who are new to RNN, here are some resources. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/), [How to implement a recurrent neural network Part 1](http://peterroelants.github.io/posts/rnn_implementation_part01/)
 
@@ -33,8 +33,8 @@ Status: [ not started :black_medium_square: | completed :white_check_mark: | in 
 |------|--------|----------|-------------|
 |read paper1 & Deepmind Blogpost|:white_check_mark:|9.30.16|Everyone|
 |read PixelRNN review|:white_check_mark:|10.1.16|Everyone|
-|preprocess audio data to wavenet data|:speech_balloon:|10.7.16|Krishnan, Sumedh|
-|setup an instance on AWS|:speech_balloon:|10.7.16|Kshitijh|
-|build network|:speech_balloon:|10.7.16|Yutaro|
-|postprocess wavenet data to audio data|:speech_balloon:|10.7.16|Ethan|
-
+|preprocess audio data to wavenet data|:white_check_mark:|10.7.16|Krishnan, Sumedh|
+|setup an instance on GCP|:speech_balloon:|10.7.16|Kshitijh|
+|build ToyModel|:white_check_mark:|10.7.16|Yutaro|
+|postprocess wavenet data to audio data|:white_check_mark:|10.7.16|Ethan|
+|pipeline preprocessed data into toy model|:speech_balloon:|10.14.16|Krishnan|
