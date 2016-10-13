@@ -9,7 +9,10 @@ Q_FACTOR = 1            # Additional linear quantization (for testing only)
 LIMIT = 20              # Number of files
 MIN_DURATION = 4.0      # Minimum duration in seconds
 
-def preprocess(filename):
+def preprocess(oldFileName):
+	#preprocess takes in the name of a .wav file (oldFileName) and returns
+	#u-law downsampled version of the file
+
 	file = wave.open(filename, "rb")
 
 	num_channels = file.getnchannels()
@@ -37,6 +40,11 @@ def preprocess(filename):
 	return np.asarray(u_law)
 
 def postprocess(data, newFileName, oldFileName):
+
+	#postprocess converts a numpy array of a u-law quantized .wav file
+	#into an actual file
+	#parameters are the data array, the name for the output file, and the original file name
+
     # data is the u-law quantized sample
     u_law = data
     u_law = [chr(x) for x in u_law]
