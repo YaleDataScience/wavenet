@@ -19,12 +19,16 @@ paper2 : [Generating Sequences With Recurrent Neural Networks](https://arxiv.org
 
 PixelRNN review : [Magenta Review](https://github.com/tensorflow/magenta/blob/master/magenta/reviews/pixelrnn.md)
 
-### Members
+### Sound-RNN
 - Yutaro Yamada
 - Kshitijh Meelu
-- Krishnan Srinivasan
-- Sumedh Guha
 - Ethan Weinberger
+
+### CharRNN
+
+- Krishnan Srinivasan
+- Lincoln Swaine-Moore
+- Henry Li
 
 ### Log 
 Status: [ not started :black_medium_square: | completed :white_check_mark: | in progress :speech_balloon:]
@@ -38,3 +42,4 @@ Status: [ not started :black_medium_square: | completed :white_check_mark: | in 
 |build ToyModel|:white_check_mark:|10.7.16|Yutaro|
 |postprocess wavenet data to audio data|:white_check_mark:|10.7.16|Ethan|
 |pipeline preprocessed data into toy model|:speech_balloon:|10.14.16|Krishnan|
+|Read/replicate CharRNN, look into text->speech generation|:speech_balloon:|10.14.16|Krishnan, Henry, Lincoln|
